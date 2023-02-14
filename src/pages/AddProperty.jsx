@@ -220,9 +220,9 @@ function AddProperty() {
               aria-label="Default select example"
             >
               <option></option>
-              <option value="Year">Day</option>
-              <option value="Year">Month</option>
-              <option value="Month">Year</option>
+              <option value="Day">Day</option>
+              <option value="Month">Month</option>
+              <option value="Year">Year</option>
             </Form.Select>
           </Form.Group>
           <Form.Group className="mb-3 " controlId="bedroom">
@@ -254,7 +254,7 @@ function AddProperty() {
               <option value="2">2</option>
               <option value="3">3</option>
               <option value="4">4</option>
-              <option value="2">5</option>
+              <option value="5">5</option>
             </Form.Select>
           </Form.Group>
           <Form.Group className="mb-3 " controlId="description">
