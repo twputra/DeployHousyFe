@@ -32,8 +32,8 @@ function NavbarProject(props) {
   return (
     <Navbar bg="white" expand="lg" className="fixed-top px-4">
       <Container fluid>
-        <Navbar.Brand href="/" style={{ marginRight: "31%" }}>
-          <img src={logo} alt="" width={100} />
+        <Navbar.Brand href="/" style={{ marginRight: "30%" }}>
+          <img src={logo} alt="" width={90} />
         </Navbar.Brand>
 
         <Navbar.Toggle aria-controls="navbarScroll" />
